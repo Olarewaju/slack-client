@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/slack-client",
+    "name": "olarewaju/slack-client",
     "keywords": ["slack", "api", "realtime"],
     "license": "MIT",
     "description": "A better Slack client, with RTM API support",
@@ -12,7 +12,7 @@
         "mpociot/phpws": "^2.0",
         "evenement/evenement": "~3.0",
         "guzzlehttp/guzzle": "~6.0",
-        "react/event-loop": "^1.0 || ^0.5 || ^0.4",
+        "react/event-loop": ">=1.0",
         "react/promise": "^2.2",
         "react/promise-timer": "^1.2.1"
     },
